@@ -1,6 +1,5 @@
 import collections
 import sys
-import arg_reader
 import getopt
 import json
 
